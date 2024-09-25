@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.automation.PetStoreTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.838 s - in com.automation.PetStoreTest
